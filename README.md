@@ -1,17 +1,20 @@
-<img src="matrix.gif" width="100%" height="300"></br>
 
-
+ <img src="https://github.com/batuhanclk/batuhanclk/assets/106315700/faa42eff-1b1b-4ec7-be4c-d4dbf0e1288c" width="1000px" height="300" a>
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A passionate Web developer from Turkey</h3>
-<p align="center"><img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/04/giphy-7.gif" width="300px" height="200" a></p>
--  🎆 Exploring routes to new visions and be a part of the new visions.
-
-- 🧐 A new age enthusiast.
-/
 <p align="center">
-<a href="https://www.linkedin.com/in/batuhançelik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png?w=826&t=st=1675034425~exp=1675035025~hmac=048266b198bab1a5110871d128576c46eaf3fc45b753aadc5cece48766614863" alt="bthnclk" height="30" width="30" /></a>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+ <img src="https://github.com/batuhanclk/batuhanclk/assets/106315700/00469844-26ee-4965-a41e-c4c03ea94293" width="300px" height="200" a>
 </p>
+
+
+<p align="center">
+-  🎆 Exploring routes to new visions and be a part of the new visions.<br/>
+- 🧐 A new age enthusiast.<br/> &emsp;<br/>
+ <a href="https://www.linkedin.com/in/batuhançelik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png?w=826&t=st=1675034425~exp=1675035025~hmac=048266b198bab1a5110871d128576c46eaf3fc45b753aadc5cece48766614863" alt="bthnclk" height="30" width="30" /></a><br/>
+</p>
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 <p align="center">
